@@ -1,0 +1,13 @@
+cmd 관리자 권한으로 실행해야함.
+
+conda activate cam_env
+C:\Users\ysy\anaconda3\envs\cam_env\python.exe d:/3.coding/ip_setting_using_qr/main.py
+
+### 💻 깃허브 업로드 3단 콤보 (복붙용)
+
+코드 수정하시고 나서 터미널에 아래 세 줄만 순서대로 복붙하시면 끝납니다. (커밋 메시지만 그때그때 뭘 수정했는지 알아볼 수 있게 바꿔주세요!)
+
+```bash
+git add .
+git commit -m "여기에 작업한 내용 간단히 적기 (예: ui 구조 변경 및 qr 생성기 추가)"
+git push origin main
